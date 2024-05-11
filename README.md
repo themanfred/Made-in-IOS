@@ -22,6 +22,10 @@ Signa es una aplicación enfocada al lenguaje de señas, donde se crea una malla
 
 El proyecto fue desarrollado en Swift utilizando la herramienta XCode y la librería de SwiftUI, la conexión a la base de datos fue hecha por medio de APIs que nos permiten realizar todas las búsquedas y manipulaciones necesarias par la aplicación.
 
+## Arquitectura 
+![image](https://github.com/themanfred/Made-in-IOS/assets/42932766/222fc744-f29b-425e-85d7-2474e84aa559)
+
+
 ## Instrucciones Básicas
 Si buscas continuar con el desarrollo de la aplicación de Signa requerirás utilizar los siguientes lenguajes de programación y se recomienda utilizar los siguiente IDEs:
 
