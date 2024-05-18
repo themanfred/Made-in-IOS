@@ -1,5 +1,8 @@
 # Made-in-IOS is the name of the team
 
+
+![4](https://github.com/themanfred/Made-in-IOS/assets/42932766/46db1aba-1e85-4cc4-adb2-723a6d77df51)
+
 The application is designed to teach Mexican Sign Language, focusing on the alphabet and essential vocabulary to facilitate the inclusion of deaf and mute employees. 
 Its goal is to create a more inclusive world, where the neccesary tools to ensure effective communication are available.
 
